@@ -1,3 +1,7 @@
 body {
   text-align: center;
 }
+
+.background-image {
+  background-image: url("/Users/Charles/Documents/Projects/Broadway/Resources/Images/the-flatiron-building.png");
+}
